@@ -190,7 +190,7 @@ b, strong {
 }
 
 .navbar-expand-sm .navbar-nav .nav-link {
-  padding: 0 20px;
+  padding: 0 30px;
 }
 
 .nav-link {
@@ -231,7 +231,7 @@ b, strong {
   height: 32px;
   line-height: 32px;
   outline: none;
-  cursor: pointer;
+  cursor: pointer; 
   margin-right: 10px;
 }
 .navbar-toggler:focus {
